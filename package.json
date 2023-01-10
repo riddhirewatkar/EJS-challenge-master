@@ -12,7 +12,17 @@
     "ejs": "^2.7.4",
     "express": "^4.16.3",
     "lodash": "^4.17.21",
-    "mongoose": "^6.8.2"
+    "mongodb": "^4.13.0",
+    "mongoose": "^6.8.3"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riddhirewatkar/EJS-challenge-master.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/riddhirewatkar/EJS-challenge-master/issues"
+  },
+  "homepage": "https://github.com/riddhirewatkar/EJS-challenge-master#readme",
   "description": ""
 }
